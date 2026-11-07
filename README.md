@@ -22,7 +22,6 @@ Replication files for *Do Reserve Disclosures Move Stablecoin Markets? Event-Stu
 | `stablecoin_master_v1.ipynb` | Analysis of the submitted manuscript (22 events) |
 | `event_list_v9.csv` | 22 events of the submitted manuscript with sources and event-level results |
 
-The submitted state of the repository is also tagged `v1-submitted`.
 
 ## How to run
 
