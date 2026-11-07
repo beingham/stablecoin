@@ -1,0 +1,59 @@
+event_date,coin,event_type,quality_score,category,new,routine,is_report,description
+2021-05-13,USDT,positive,3,report,0,1,1,First reserve breakdown (as of 2021-03-31); composition unattested; CP 49%
+2021-08-09,USDT,positive,5,report,0,1,1,Q2 2021 attestation: CP ratings and maturity buckets disclosed
+2021-10-15,USDT,negative,,enforcement,0,0,0,CFTC order: USD 41M civil penalty for reserve misrepresentation
+2021-12-03,USDT,neutral,5,report,0,1,1,Q3 2021 attestation (as of 2021-09-30)
+2022-02-21,USDT,positive,5,report,0,1,1,Q4 2021 attestation: CP cut 21%
+2022-05-12,USDT,negative,,stress,1,0,0,Terra/UST collapse (market-wide stress)
+2022-08-19,USDT,positive,5,report,0,1,1,Q2 2022 attestation (BDO Italia): CP cut 58%
+2022-10-13,USDT,positive,,policy,1,1,0,Tether announces commercial paper reduced to zero
+2022-11-11,USDT,negative,,stress,0,0,0,FTX Chapter 11 filing (market-wide stress)
+2023-02-09,USDT,positive,5,report,0,1,1,Q4 2022 attestation: CP eliminated
+2023-03-10,USDT,negative,,stress,1,0,0,SVB failure weekend (market-wide stress)
+2023-05-10,USDT,positive,5,report,0,1,1,Q1 2023 attestation
+2023-07-31,USDT,positive,5,report,0,1,1,Q2 2023 attestation
+2023-10-31,USDT,neutral,5,report,0,1,1,Q3 2023 attestation
+2024-01-31,USDT,positive,5,report,0,1,1,Q4 2023 attestation
+2024-05-01,USDT,positive,5,report,0,1,1,Q1 2024 attestation
+2024-07-31,USDT,positive,5,report,0,1,1,Q2 2024 attestation
+2024-10-31,USDT,neutral,5,report,0,1,1,Q3 2024 attestation
+2025-01-31,USDT,positive,5,report,0,1,1,Q4 2024 attestation
+2021-04-27,USDC,neutral,4,report,1,1,1,Circle attestation as of 2021-02-28
+2021-05-24,USDC,neutral,4,report,1,1,1,Circle attestation as of 2021-03-31
+2021-07-20,USDC,positive,4,report,0,1,1,First USDC reserve breakdown (Grant Thornton)
+2021-08-13,USDC,neutral,4,report,1,1,1,Circle attestation as of 2021-06-30
+2021-09-20,USDC,neutral,4,report,1,1,1,Circle attestation as of 2021-08-31
+2021-10-27,USDC,neutral,4,report,1,1,1,Circle attestation as of 2021-09-30
+2021-12-22,USDC,neutral,4,report,1,1,1,Circle attestation as of 2021-11-30
+2022-01-24,USDC,neutral,4,report,1,1,1,Circle attestation as of 2021-12-31
+2022-02-25,USDC,neutral,4,report,1,1,1,Circle attestation as of 2022-01-31
+2022-03-31,USDC,neutral,4,report,1,1,1,Circle attestation as of 2022-02-28
+2022-05-12,USDC,negative,,stress,1,0,0,Terra/UST collapse (market-wide stress)
+2022-07-28,USDC,neutral,4,report,1,1,1,Circle attestation as of 2022-06-30
+2022-08-24,USDC,neutral,5,report,1,1,1,Circle attestation as of 2022-07-31
+2022-09-23,USDC,neutral,5,report,1,1,1,Circle attestation as of 2022-08-31
+2022-11-11,USDC,negative,,stress,1,0,0,FTX Chapter 11 filing (market-wide stress)
+2022-12-23,USDC,positive,5,report,0,1,1,Attestation adds CUSIP-level holdings and custodians
+2023-01-17,USDC,positive,,assurance,0,1,0,Circle appoints Deloitte for reserve assurance
+2023-03-10,USDC,negative,,stress,0,0,0,SVB failure; USD 3.3B of reserves at SVB
+2023-04-28,USDC,neutral,5,report,1,1,1,Circle attestation as of 2023-03-31
+2023-05-30,USDC,neutral,5,report,1,1,1,Circle attestation as of 2023-04-28
+2023-06-30,USDC,neutral,5,report,1,1,1,Circle attestation as of 2023-05-31
+2023-07-28,USDC,neutral,5,report,1,1,1,Circle attestation as of 2023-06-30
+2023-08-30,USDC,neutral,5,report,1,1,1,Circle attestation as of 2023-07-31
+2023-09-29,USDC,neutral,5,report,1,1,1,Circle attestation as of 2023-08-31
+2023-10-31,USDC,neutral,5,report,1,1,1,Circle attestation as of 2023-09-29
+2023-12-22,USDC,neutral,5,report,1,1,1,Circle attestation as of 2023-11-30
+2024-03-01,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-01-31
+2024-03-30,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-02-29
+2024-04-30,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-03-29
+2024-05-31,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-04-30
+2024-07-31,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-06-28
+2024-08-28,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-07-31
+2024-09-30,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-08-30
+2024-10-31,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-09-30
+2024-11-26,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-10-31
+2024-12-20,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-11-29
+2025-01-30,USDC,neutral,5,report,1,1,1,Circle attestation as of 2024-12-31
+2025-02-27,USDC,neutral,5,report,1,1,1,Circle attestation as of 2025-01-31
+2025-03-28,USDC,neutral,5,report,1,1,1,Circle attestation as of 2025-02-28
