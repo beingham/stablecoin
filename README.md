@@ -2,7 +2,19 @@
 
 Replication files for *Do Reserve Disclosures Move Stablecoin Markets? Event-Study Evidence from USDT and USDC* (Ham & Chun), FinTech manuscript fintech-4675558.
 
-## Revised version (Round 1 revision, manuscript v10)
+## Round 2 revision (manuscript v11)
+
+| File | Contents |
+|---|---|
+| `stablecoin_master_v3.ipynb` | Full analysis. All earlier steps are retained; **STEP V11 reproduces every number in the v11 manuscript** (Tables 4–10, Figures 1–3) and cell V11e the hourly SVB figures (Section 4.5, Figure 4c). |
+| `events_v11_base.csv` | Event sample of v11: 54 routine disclosures (USDT 15, USDC 39) and 7 stress observations, with the recoded quality index, the date type of every event, and a flag for proxy-dated Circle attestations |
+| `circle_attestation_dates_v11.csv` | Circle monthly attestations: reporting date, date printed in the report, PDF creation date, date used, dating method, first Internet Archive capture, and source URL |
+| `Supplementary_Tables_S1_S2_v11.xlsx` | Table S1 (included events with date sources and event-level results; excluded candidates; market-news calendar; stress events with standardized CARs; dating-sensitivity, multiple-testing, and calendar-matched results) and Table S2 (source-level quality coding with the basis for each code) |
+| `usdc_usd_hourly_bitstamp_svb.csv` | Hourly USDC/USD prices on Bitstamp, 10–12 March 2023 (UTC), from Bitstamp's public API |
+
+Run `stablecoin_master_v3.ipynb` top to bottom with all CSV files in the same folder. Results were checked with Python 3.13 outside Colab.
+
+## Round 1 revision (manuscript v10)
 
 | File | Contents |
 |---|---|
