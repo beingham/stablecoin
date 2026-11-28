@@ -10,6 +10,10 @@ Replication files for *Do Reserve Disclosures Move Stablecoin Markets? Event-Stu
 | `events_v11_base.csv` | Event sample of v11: 54 routine disclosures (USDT 15, USDC 39) and 7 stress observations, with the recoded quality index, the date type of every event, and a flag for proxy-dated Circle attestations |
 | `circle_attestation_dates_v11.csv` | Circle monthly attestations: reporting date, date printed in the report, PDF creation date, date used, dating method, first Internet Archive capture, and source URL |
 | `Supplementary_Tables_S1_S2_v11.xlsx` | Table S1 (included events with date sources and event-level results; excluded candidates; market-news calendar; stress events with standardized CARs; dating-sensitivity, multiple-testing, and calendar-matched results) and Table S2 (source-level quality coding with the basis for each code) |
+| `reserve_composition.csv` | Graded reserve measures for the 45 reports with a breakdown by asset class: government, bank-deposit, and non-government shares (Section 4.4, Table S3); produced by STEP V12 of the notebook |
+| `reserve_lines_circle.csv`, `reserve_lines_circle_other.csv`, `reserve_lines_tether.csv` | Line items copied from each Circle and Tether reserve report, with the stated totals they reconcile to |
+| `tether_report_urls.csv` | Source URLs of Tether's consolidated reserves reports |
+| `Supplementary_Tables_S1_S3.xlsx` | Tables S1 and S2 as above, plus Table S3 (reserve composition by report with its line items and sources; graded-measure regressions) |
 | `usdc_usd_hourly_bitstamp_svb.csv` | Hourly USDC/USD prices on Bitstamp, 10–12 March 2023 (UTC), from Bitstamp's public API |
 
 Run `stablecoin_master_v3.ipynb` top to bottom with all CSV files in the same folder. Results were checked with Python 3.13 outside Colab.
